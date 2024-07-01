@@ -1,0 +1,19 @@
+{
+  "name": "instiolx-api",
+  "version": "1.0.0",
+  "description": "A RESTful API for InstiOlx e-commerce platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.19.2",
+    "mongoose": "^5.13.22"
+  }
+}
